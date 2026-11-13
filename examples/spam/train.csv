@@ -1,0 +1,9 @@
+row_id,text,spam_label
+1,The team review starts at ten tomorrow,0
+2,Your library books are due on Friday,0
+3,Can we move our study group to room six,0
+4,The build completed and the report is attached,0
+5,Claim a free reward by replying now,1
+6,An exclusive cash bonus is waiting for you,1
+7,Send a fee today to unlock your prize,1
+8,Urgent deal win a voucher in minutes,1

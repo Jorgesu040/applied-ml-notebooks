@@ -1,0 +1,12 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+data/
+tuner_logs/
+*.keras
+*.h5
+submission.csv
+predicciones_cats_dogs.csv
+hypermodel_best.png
+transfer_base_model.png
+transfer_fine_model.png
